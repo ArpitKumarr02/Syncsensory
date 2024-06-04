@@ -10,4 +10,6 @@ Currently, our team consists of four passionate members, but we need more help t
 We're looking for developers, designers, and anyone with unique skills that can contribute to the project. If you're interested, please contact us through Instagram, leave a comment here, or reach out on Discord.
 
 ## Contact
-- **Instagram**: [arpitkumarr02]
+- **Instagram**: https://www.instagram.com/arpitkumarr02/
+- **Instructables**: https://www.instructables.com/member/arpitkumarr02/
+- **Youtube**: https://youtube.com/@synco-tech?si=ljcMOnPfQrgzBKc_
