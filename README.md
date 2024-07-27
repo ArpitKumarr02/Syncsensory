@@ -13,4 +13,5 @@ We're looking for developers, designers, and anyone with unique skills that can 
 - **Instagram**: https://www.instagram.com/arpitkumarr02/
 - **Instructables**: https://www.instructables.com/member/arpitkumarr02/
 - **Youtube**: https://youtube.com/@synco-tech?si=ljcMOnPfQrgzBKc_
+- **LinkedIn**: https://www.linkedin.com/in/arpit-kumar-b72286317
 - **Gmail**: arpitkumarr02@gmail.com
