@@ -1,3 +1,4 @@
+Note: Project is paused since late September due to project members learning even more about electronics and things that can help us in syncsensory... as of now we have no updates on resuming the project for upcoming few years
 # SyncSensory
 
 ## About the Project
